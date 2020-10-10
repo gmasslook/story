@@ -30,7 +30,7 @@ $pkg install php
 $pkg install git
 $pkg install mc
 $ git clone https://github.com/gmasslook/story
-$ cd masslooker
+$ cd story
 $ php login.php
 $ php run.php
 ```
